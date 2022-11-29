@@ -1,10 +1,6 @@
 # CryptoList
 Curated collection of blockchain &amp; cryptocurrency links.
 
-# Sponsor
-[<img src="https://github.com/coinpride/CryptoList/blob/master/join_cryptomemes.png?raw=true" width="467">](https://t.me/join_cryptomemes)
-
-
 # Contents
 - [Media](#media)
   - [Magazines and Blogs](#magazines-and-blogs)
@@ -43,12 +39,9 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 # Media
 ## Magazines and Blogs
-* [CryptoHackers](https://cryptohackers.party/) - Cryptoworld superheroes interviews. Fascinating facts, teams insides and success stories.
 * [CoinTelegraph](https://cointelegraph.com/) - The leading publication offering latest news, analysis, expert opinions, community commentaries. Founded in 2013.
 * [CoinDesk](https://www.coindesk.com/) - CoinDesk is the world leader in news and information on digital currencies. 17M mothly users.
-* [CryptoCoins News](https://www.cryptocoinsnews.com/) - Fresh news and analysis. This huge blog posts very frequently. Approx. 7M readers monthly.
 * [Bitcoin Magazine](https://bitcoinmagazine.com/) - Bitcoin Magazine is the oldest and most established source of news, information and expert commentaries. Sometimes posts deep and very interesting articles.
-* [99 Bitcoins](https://99bitcoins.com/) - 99 Bitcoins is the largest information source for non technical newbies.
 * [Coin Speaker](https://www.coinspeaker.com/) - Founded in 2014, CoinSpeaker is one of the most influentional news source.
 * [The Memory Pool](https://nakamotoinstitute.org/mempool/) - Satoshi Nakamoto Institute blog.
 * [Tim Swanson Blog](https://www.ofnumbers.com/category/bitcoin/) - Blog of director of market research at R3.
